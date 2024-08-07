@@ -1,5 +1,4 @@
 using AlbinRonnkvist.Kata.Solutions.SixKyu;
-using FluentAssertions;
 
 namespace AlbinRonnkvist.Kata.Tests.SixKyu;
 
